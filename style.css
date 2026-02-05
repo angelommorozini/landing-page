@@ -70,8 +70,8 @@ h2 {
     background: #000000;
     border-radius: 10px;
     padding: 20px;
-    box-shadow: 0 5px 15px rgba(red, green, blue, alpha);
-    transition: transform o.2s;
+    box-shadow: 0 5px 15px rgba(0, 255, 0, 0.3);
+    transition: transform 0.2s;
 }
 
 .tip-card:hover {
